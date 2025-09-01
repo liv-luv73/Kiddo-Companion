@@ -57,6 +57,7 @@ Liv’s babysitting business!
       I am on student council, I sing for the school worship team, I volunteer at VBS and I am starting a school debate team!
   
      
+
     </p>
 
     
@@ -72,7 +73,7 @@ Liv’s babysitting business!
       You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! There is so much more to do at Greenbrier WV!
     </p>
 
-<p> I hope this site! </p> 
+<p> I hope this site helps! </p> 
 
   </section>
 
