@@ -43,7 +43,7 @@ Liv’s babysitting business!
 </head>
 <body>
   <header>
-    <h1>A little about me!m WV</h1>
+    <h1>A little about me </h1>
     <p>My name is liv degroff and i am 13 hears old! i have school until 3:00 PM and my schedule has to go around volleyball but i have a solid schedule so i wont give last minute notice that i cant come! if i dont answer right away i am either in school or in volleyball! </p>
   </header>
 
