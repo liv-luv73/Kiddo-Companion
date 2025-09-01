@@ -44,7 +44,7 @@ Liv’s babysitting business!
 <body>
   <header>
     <h1>A little about me </h1>
-    <p>My name is liv degroff and i am 13 years old! i have school until 3:00 PM and my schedule has to go around volleyball but i have a solid schedule so i wont give last minute notice that i cant come! if i dont answer right away i am either in school or in volleyball! </p>
+    <p>My name is liv degroff and i am 13 years old! my schedule has to go around volleyball but i have a solid schedule so i wont give last minute notice that i cant come! if i dont answer right away i am either in school or in volleyball! </p>
   </header>
 
   <section>
@@ -68,10 +68,6 @@ Liv’s babysitting business!
       </p>
     </div>
 
-    <h2>Some fun places to visit if your ever in Greenbrier!</h2>
-    <p>
-      You could explore the Greenbrier Resort with its historic grounds, golf courses, and bunker tours, or you could watch a show at the Greenbrier Valley Theatre! There is so much more to do at Greenbrier WV!
-    </p>
 
 <p> I hope this site helps! </p> 
 
