@@ -44,7 +44,7 @@ Liv’s babysitting business!
 <body>
   <header>
     <h1>A little about me </h1>
-    <p>My name is liv degroff and i am 13 hears old! i have school until 3:00 PM and my schedule has to go around volleyball but i have a solid schedule so i wont give last minute notice that i cant come! if i dont answer right away i am either in school or in volleyball! </p>
+    <p>My name is liv degroff and i am 13 years old! i have school until 3:00 PM and my schedule has to go around volleyball but i have a solid schedule so i wont give last minute notice that i cant come! if i dont answer right away i am either in school or in volleyball! </p>
   </header>
 
   <section>
@@ -53,8 +53,8 @@ Liv’s babysitting business!
       I have babysat for more than 2 years for family and friends! 
       i can help with meal prep,nap time,reading comprehension,and homework!
     <section>
-      I am in the 8th grade and i do volleyball all year round,I've done You Be The Chemist for 3 years,
-      i am on student council, i volunteer at VBS and i am starting a debate team!
+      I am in the 8th grade and I do volleyball all year round,I've done You Be The Chemist for 3 years,
+      I am on student council, I sing for the school worship team, I volunteer at VBS and I am starting a school debate team!
   
      
     </p>
